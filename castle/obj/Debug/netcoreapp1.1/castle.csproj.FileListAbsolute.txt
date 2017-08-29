@@ -1,0 +1,16 @@
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/bin/Debug/netcoreapp1.1/castle.deps.json
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/bin/Debug/netcoreapp1.1/castle.runtimeconfig.json
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/bin/Debug/netcoreapp1.1/castle.runtimeconfig.dev.json
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/bin/Debug/netcoreapp1.1/castle.dll
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/bin/Debug/netcoreapp1.1/castle.pdb
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/obj/Debug/netcoreapp1.1/castle.AssemblyInfo.cs
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/obj/Debug/netcoreapp1.1/castle.dll
+C:/Users/tehte/Desktop/DojoAssignments/netCore/Invisible_Hand/castle/obj/Debug/netcoreapp1.1/castle.pdb
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/bin/Debug/netcoreapp1.1/castle.deps.json
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/bin/Debug/netcoreapp1.1/castle.runtimeconfig.json
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/bin/Debug/netcoreapp1.1/castle.runtimeconfig.dev.json
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/bin/Debug/netcoreapp1.1/castle.dll
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/bin/Debug/netcoreapp1.1/castle.pdb
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/obj/Debug/netcoreapp1.1/castle.AssemblyInfo.cs
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/obj/Debug/netcoreapp1.1/castle.dll
+/Users/crystallayman/Desktop/DojoAssignments/netCore/Day1/castle2/castle/obj/Debug/netcoreapp1.1/castle.pdb
